@@ -1,5 +1,5 @@
 {
   "name": "FMCS Data Flow Dashboard",
-  "description": "A sophisticated facility management control system (FMCS) data flow visualization platform allowing users to navigate through various sites and their respective water treatment processes (UPW/WWT).",
+  "description": "A static facility management control system data flow visualization platform using JS/HTML/CSS.",
   "requestFramePermissions": []
 }
